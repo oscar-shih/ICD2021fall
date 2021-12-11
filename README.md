@@ -1,4 +1,4 @@
-# ICD2021
+# ICD2021 @ NTUEE prof. Tzu-Dar Chiueh
 ## Content
 
 ### HW2
